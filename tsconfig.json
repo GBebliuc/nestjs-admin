@@ -10,6 +10,7 @@
     "outDir": "./dist",
     "rootDir": "./",
     "baseUrl": "./",
+    "skipLibCheck": true,
     "noLib": false
   },
   "include": ["src/**/*.ts", "bin/**/*.ts"],
